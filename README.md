@@ -7,6 +7,9 @@
 - Melakukan inisialisasi proyek
 - Menambahkan method 'sayHello()' pada HomeController = Menambahkan pengujian untuk method 'sayHello()'
 - add checklist fix main
+- menambahkan element baru yaitu perolehanNilai(String), perbedaanL(String), palingTer(String), informasiNim(String)
+- dengan mengikuti test case dari praktikum 1
+- update terbaru
 
 ## Syntax
 
