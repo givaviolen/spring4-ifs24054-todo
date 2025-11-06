@@ -12,7 +12,7 @@ public class HomeController {
      */
     @GetMapping("/")
     public String hello() {
-        return "Hay Joyce Naibaho, selamat datang di pengembangan aplikasi dengan Spring Boot!";
+        return "Hay Abdullah Ubaid, selamat datang di pengembangan aplikasi dengan Spring Boot!";
     }
 
     /**

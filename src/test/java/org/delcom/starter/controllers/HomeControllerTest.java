@@ -16,7 +16,7 @@ class HomeControllerUnitTest {
     void hello_ShouldReturnWelcomeMessage() throws Exception {
         HomeController controller = new HomeController();
         String result = controller.hello();
-        assertEquals("Hay Joyce Naibaho, selamat datang di pengembangan aplikasi dengan Spring Boot!", result);
+        assertEquals("Hay Abdullah Ubaid, selamat datang di pengembangan aplikasi dengan Spring Boot!", result);
     }
 
     @Test
